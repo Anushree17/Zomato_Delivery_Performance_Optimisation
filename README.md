@@ -31,7 +31,14 @@
     <li>SQL for generating insights</li>
     <li>Machine learning to predict if the city will have high rating or not based on features like cuisine,price range,votes,city etc</li>
   </ul>
+<h2>Recommendations</h2>
 
+<ul>
+    <li>Increase proportion of online deliveries in low-rated cities.</li>
+    <li>Optimize average cost for two to align with local purchasing power.</li>
+    <li>Shift price range towards affordable (cheap) segment for wider accessibility.</li>
+    <li>Boost user engagement through incentives for reviews/votes.</li>
+</ul>
 <h2>Business Impact</h2>
 <ul>
   <li><strong>Uncovered top 3 drivers of low delivery ratings:</strong> lack of online delivery, poor locality serviceability, and high price range without value justification.</li>
