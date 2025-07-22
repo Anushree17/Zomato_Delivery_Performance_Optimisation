@@ -1,4 +1,3 @@
-<img src="https://corpseed-main.s3.ap-south-1.amazonaws.com/corpseed/How%20to%20Register%20Restaurant%20in%20Zomato%20-%20corpseed.jpg" 
 <h2>Business Problem</h2>
 <p>Zomato wanted to identify why some cities had lower delivery ratings and higher failed deliveries. The goal was to analyze performance across cities, identify patterns causing delays or bad experiences, and recommend actions to improve delivery partner efficiency and customer satisfaction.</p>
 <h2>Dataset</h2>
