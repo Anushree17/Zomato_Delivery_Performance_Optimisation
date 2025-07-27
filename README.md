@@ -1,4 +1,5 @@
-<h2>Business Problem</h2>
+<img src="https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2024/02/Zomato-Q3-gold-ftr.jpg" width="800" height="500">
+    h2>Business Problem</h2>
 <p>Zomato wanted to identify why some cities had lower delivery ratings and higher failed deliveries. The goal was to analyze performance across cities, identify patterns causing delays or bad experiences, and recommend actions to improve delivery partner efficiency and customer satisfaction.</p>
 <h2>Dataset</h2>
 <ul>
